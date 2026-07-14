@@ -53,31 +53,8 @@ Seaborn.
 Jupyter Notebook.
 
 **📈 Project Workflow**
-SQLite Database
-       │
-       ▼
-SQL Queries
-       │
-       ▼
-Pandas
-       │
-       ▼
-Data Cleaning
-       │
-       ▼
-Feature Engineering
-       │
-       ▼
-Exploratory Data Analysis
-       │
-       ▼
-Business KPI Analysis
-       │
-       ▼
-Visualization
-       │
-       ▼
-Business Insights
+SQLite Database -> SQL Queries -> Pandas  -> Data Cleaning  -> Data Cleaning -> Feature Engineering -> Exploratory Data Analysis -> Business KPI Analysis -> Visualization -> Business Insights
+
 
 **📌 Key KPIs**
 Total Customers,
