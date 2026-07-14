@@ -16,42 +16,40 @@ This project helps answer questions such as:
 The project consists of three relational SQLite tables:
 
 **Customer Table**
-Customer ID
-Name
-Gender
-State
-Country
-DOB
+Customer ID,
+Name,
+Gender,
+State,
+Country,
+DOB,
 Interests
 
 **Subscription Table**
-Subscription Type
-Plan Type
-Contract Type
-Monthly Charges
-CLTV
-Churn Score
-Cancellation Date
+Subscription Type,
+Plan Type,
+Contract Type,
+Monthly Charges,
+CLTV,
+Churn Score,
+Cancellation Date,
 
 **Support Table**
-Complaint Date
-Escalations
-CSAT Score
+Complaint Date,
+Escalations,
+CSAT Score,
 Customer Comments
 
 **Dataset Size**
-
-10,000+ Customers
+10,000+ Customers,
 3 SQL Tables
 
 **Technologies Used**
-Python
-SQL
-SQLite
-Pandas
-NumPy
-Matplotlib
-Seaborn
+Python,
+SQL,
+Pandas,
+NumPy,
+Matplotlib,
+Seaborn.
 Jupyter Notebook
 
 
