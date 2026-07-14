@@ -97,3 +97,6 @@ Correlation Analysis.
 * Analyzed the relationship between customer satisfaction and churn.
 * Evaluated customer lifetime value across different customer segments.
 * Generated actionable insights to support customer retention strategies.
+<img width="884" height="269" alt="Screenshot 2026-07-14 151354" src="https://github.com/user-attachments/assets/16c8925a-0baa-4262-bfe4-6e16df177dd8" />
+
+
