@@ -22,7 +22,7 @@ Gender,
 State,
 Country,
 DOB,
-Interests
+Interests.
 
 **Subscription Table**
 Subscription Type,
@@ -31,17 +31,17 @@ Contract Type,
 Monthly Charges,
 CLTV,
 Churn Score,
-Cancellation Date,
+Cancellation Date.
 
 **Support Table**
 Complaint Date,
 Escalations,
 CSAT Score,
-Customer Comments
+Customer Comments.
 
 **Dataset Size**
 10,000+ Customers,
-3 SQL Tables
+3 SQL Tables.
 
 **Technologies Used**
 Python,
@@ -50,6 +50,73 @@ Pandas,
 NumPy,
 Matplotlib,
 Seaborn.
-Jupyter Notebook
+Jupyter Notebook.
 
+**📈 Project Workflow**
+SQLite Database
+       │
+       ▼
+SQL Queries
+       │
+       ▼
+Pandas
+       │
+       ▼
+Data Cleaning
+       │
+       ▼
+Feature Engineering
+       │
+       ▼
+Exploratory Data Analysis
+       │
+       ▼
+Business KPI Analysis
+       │
+       ▼
+Visualization
+       │
+       ▼
+Business Insights
 
+**📌 Key KPIs**
+Total Customers,
+Churn Rate,
+Monthly Revenue,
+Customer Lifetime Value (CLTV),
+Customer Satisfaction Score,
+Complaint Rate,
+Revenue by State,
+Revenue by Subscription,
+Revenue by Contract Type.
+
+**📊 Analysis Performed**
+Customer Segmentation,
+Revenue Analysis,
+Churn Analysis,
+State-wise Analysis,
+Gender Analysis,
+Subscription Analysis,
+Contract Analysis,
+Customer Age Analysis,
+Complaint Analysis,
+Time Series Analysis.
+
+**📉 Visualizations**
+Customer Distribution,
+Churn Distribution,
+Revenue Analysis,
+Subscription Analysis,
+Contract Analysis,
+Monthly Churn Trend,
+Quarterly Churn Trend,
+State-wise Churn,
+Heatmap,
+Correlation Analysis.
+
+**💡 Business Insights**
+* Identified customer segments with the highest churn probability.
+* Compared churn across subscription and contract types.
+* Analyzed the relationship between customer satisfaction and churn.
+* Evaluated customer lifetime value across different customer segments.
+* Generated actionable insights to support customer retention strategies.
